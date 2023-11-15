@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="ar" dir="ltr">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+     
+
+  <title>member2</title>
+  <style>
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+#photo-container {
+  position: relative;
+  width: 70%;
+}
+.photo {
+  border-radius: 15px;
+  overflow: hidden;
+}
+#photo1 {
+  width: 100%;
+  height: 550px;
+}
+#photo1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+#photo2 {
+  position: absolute;
+  right: 5%;
+  top: 50%;
+  width: 40%; 
+  height: 380px;
+}
+#photo2 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+#photo3 {
+  position: absolute;
+  left: 5%;
+  bottom: -2%;
+  width: 30%; 
+  height: 400px; 
+}
+#photo3 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} 
+#text-container {
+  width: 50%;
+  margin-top: 40px; 
+  
+}
+.quote {
+  font-style: italic;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  background-color: #f8f9fa; 
+  padding: 15px; 
+  border-left: 5px solid #007bff; 
+}
+.bio {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.header {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;}
+  .page-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-weight: bold;
+}
+.page-icon {
+  width: 20px;
+  margin-right: 10px;}
+  
+</style>
+ </head>
+<body>
+<div class="container">
+  <div id="photo-container">
+    <div id="photo1" class="photo">
+      <img src="енджун1.jpeg" class="img-fluid rounded">
+    </div>
+    <div id="photo2" class="photo">
+      <img src="енджун2.jpg" class="img-fluid rounded">
+    </div>
+    <div id="photo3" class="photo">
+      <img src="енджун3.jpeg" class="img-fluid rounded">
+    </div>
+  </div>
+  <div id="text-container">
+   <div class="header">Чхве Йонджун</div>
+    <div class="quote">"Не важливо, що думають інші, я хочу бути тим, хто залишається вірним собі. Я хочу захищати те, у що я вірю, і руйнувати стіну, побудовану зі стереотипів і забобонів світу, щоразу, стикаючись із цим. Як артист, я хотів би стати тим, хто допоможе іншим почуватися краще через свою музику. Зрештою, я і сам знаходив розраду в музиці інших людей. Це не обов'язково має бути для безлічі людей, але я сподіваюся, що наша музика може принести розраду і сили хоч комусь.<p>Мої невдачі зробили мене тим, ким я зараз є."</p></div>
+    <div class="bio">
+	<h2>Біографія</h2>
+      <p>
+	  
+Чхве Йонджун (кор. 최연준, англ. Choi Yeon Jun; більш відомий як Йонджун) - південнокорейський співак, репер, модель і танцюрист. Є учасником K-pop бой-бенду TXТ.</p>
+       <p> Чхве Йонджун народився 13 вересня 1999 року в Соннам, Південна Корея. 
+      </p>
+       <p>
+        Він дебютував як учасник TXT 4 березня 2019 року. 10 січня 2019 року Big Hit Entertainment опублікували відеоролик з Йонджуном, тим самим розкривши першого учасника нової чоловічої групи. Усі трейні компанії жахалися його, бо кожен місяць по всім параметрам він був на першому місці. За це його прозвали "Легендарним трейні Big Hit".
+       </p>
+      <p>
+       У 2014 році став стажистом в агентстві Cube Entertainment, але потім, після прослуховування, де він виконав "Boy in Luv" гурту BTS перейшов у Big Hit Entertainment. Є "It boy" 4 покоління.
+       
+      </p>
+	  <p>Термін "It boy" зазвичай використовується для опису чоловіка, який перебуває на піку популярності в суспільному житті та має широку медійну популярність. Це може бути актор, музикант, модель або інша знаменитість, яка стала символом свого часу. "It boy" часто асоціюється з модою, стилем і трендами. У контексті Чхве Йонджуна, це означає, що він є однією з найпомітніших і найвпливовіших фігур у сучасній K-pop культурі.
+
+</p>
+      <h3>Музична кар'єра</h3>
+      <p>
+        Чхве Йонджун є різностороннюю особистостю.  Він має потужний голос, бездоганно володіє своїм тілом та вміє читати реп. Він також є автором пісень для TXT.
+      </p>
+      <p>
+        <strong>Як автор пісень, Йонджун брав участь у написанні пісень "Fairy of Shampoo" і "Maze in the Mirror" з міні-альбому The Dream Chapter: Eternity (2020)
+        </strong>
+      </p>
+      
+	 
+	  <h4>Особиста сторінка Йонджуна</h4>
+      <a class="page-link" href="https://www.instagram.com/yawnzzn/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==">
+        <img src="инста.png" class="page-icon" alt="Посилання">
+        Особиста сторінка Йонджуна
+      </a>
+    </div>
+  </div>
+</div>
+
+</div>
+  </div>
+</div>
+    <!-- Подключаем Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
